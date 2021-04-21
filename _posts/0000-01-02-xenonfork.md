@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+La patata y la hamburguesa
 Use the left arrow to go back!
